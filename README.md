@@ -1,1 +1,1 @@
-<h1 style='color: #FF7F00;'>Repositório de Ailton Borges<h1>
+<h1>Repositório de Ailton Borges<h1>
